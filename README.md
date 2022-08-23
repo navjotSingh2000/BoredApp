@@ -9,8 +9,11 @@
 ## Working
 | Android  | Iphone |
 | ------------- | ------------- |
-| <img src="./screenshots-gifs/BoredApp-android.gif" width="200" />  | <img src="./screenshots-gifs/BoredApp-iphone.gif" width="200" /> |
-| <img src="./screenshots-gifs/BoredApp-both.png" width="400" /> |
+| <img src="./screenshots-gifs/BoredApp-android.gif" width="250" />  | <img src="./screenshots-gifs/BoredApp-iphone.gif" width="250" /> |
+
+| Both |
+| ------------- |
+| <img src="./screenshots-gifs/BoredApp-both.png" width="500" /> |
 
 
 ## General info
