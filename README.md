@@ -29,7 +29,7 @@ Project is created with:
 ## Setup
 To run this project, install it locally using npm:
 
-download or clone the repository
+Download or clone the repository
 
 ```
 $ npm install
