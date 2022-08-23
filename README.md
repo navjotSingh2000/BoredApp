@@ -24,6 +24,7 @@
 ## Technologies
 Project is created with:
 * React Native: 0.69
+* Expo
 * BoredAPI: v1
 	
 ## Setup
