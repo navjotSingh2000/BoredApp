@@ -1,9 +1,15 @@
 # BoredApp
 
 ## Table of contents
+* [Working](#working)
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+
+## Working
+* <img src="./screenshots-gifs/BoredApp-android.gif" width="100" />
+* <img src="./screenshots-gifs/BoredApp-iphone.gif" width="100" />
+* <img src="./screenshots-gifs/BoredApp-both.png" width="100" />
 
 ## General info
 * This App suggests things to do when you are feeling bored.
