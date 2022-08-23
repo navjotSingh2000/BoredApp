@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.navjot2000.BoredApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
