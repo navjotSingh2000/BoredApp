@@ -7,9 +7,11 @@
 * [Setup](#setup)
 
 ## Working
-* <img src="./screenshots-gifs/BoredApp-android.gif" width="100" />
-* <img src="./screenshots-gifs/BoredApp-iphone.gif" width="100" />
-* <img src="./screenshots-gifs/BoredApp-both.png" width="100" />
+| Android  | Iphone |
+| ------------- | ------------- |
+| <img src="./screenshots-gifs/BoredApp-android.gif" width="200" />  | <img src="./screenshots-gifs/BoredApp-iphone.gif" width="200" /> |
+| <img src="./screenshots-gifs/BoredApp-both.png" width="400" /> |
+
 
 ## General info
 * This App suggests things to do when you are feeling bored.
